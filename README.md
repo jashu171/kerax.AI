@@ -6,7 +6,8 @@ An AI-powered meeting assistant that revolutionizes how you manage and interact 
 
 ## 🌐 Live Demo
 - **Demo Video**: [Demo video](https://drive.google.com/file/d/14YCAPL0w09GfhqfHr6PTEV0TZGBkdqEM/view?usp=sharing)
-Visit [Kerax.ai](https://kerax-ai.vercel.app/) to experience the application in action.
+
+- Visit [Kerax.ai](https://kerax-ai.vercel.app/) to experience the application in action.
 
 ## ✨ Features
 
